@@ -1,18 +1,5 @@
-# AWS Workshop
+# Linux Projects
 
-AWS Workshop contains hands-on trainings and projects.
+List of projects within Linux workshop as follows;
 
-- [List of AWS Hands-on Trainings](./hands-on/README.md)
-
-- [List of AWS Projects](./projects/README.md)
-
-- [AWS Session Class-notes](./class-notes/README.md)
-
-
-## Naming Convention for Folders 
-
-- Use lower case letters to name the folders.
-
-- The name of the folder should give detailed info about it's contents such as date/session, instructor and title:
-
- 
+1. - [Project-101 : Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](./Project-101/README.md)
